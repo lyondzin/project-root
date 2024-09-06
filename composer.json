@@ -1,0 +1,15 @@
+{
+    "name": "lyon/elspot",
+    "autoload": {
+        "psr-4": {
+            "Lyon\\Elspot\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lyondzin",
+            "email": "leonarddevendj@gmail.com"
+        }
+    ],
+    "require": {}
+}
